@@ -66,7 +66,7 @@ The project is implemented as a single Google Colab notebook (`03_pytorch_comput
 
 If you are running this notebook in Google Colab, all necessary libraries are likely pre-installed.
 
-If you are running this notebook locally, you can install the required libraries using pip:
+If you are running this notebook locally, you can install the required libraries using pip
 
 ## Mentored by
 Thanks to [Daniel Bourke](https://github.com/mrdbourke) and [learnpytorch.io](https://www.learnpytorch.io/) for resources and guidance
